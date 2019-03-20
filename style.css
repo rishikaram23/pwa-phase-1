@@ -1,0 +1,23 @@
+body{
+background:#f566ad ;
+}
+.parent
+{
+ background:#edf5f3;
+ display: flex;
+ margin:3%;
+ padding:3%;
+ justify-content: space-around;
+}
+.child
+ {
+   width:25%;
+  background: #f566ad;
+  padding: 1%;
+  text-align: center;
+  margin:2%;
+  border-radius: 5%;
+  box-shadow: 5px 5px 5px black;
+}
+img{
+  width:75%;

@@ -1,0 +1,45 @@
+{
+  "basics":
+  {
+    "img":"photo/tom and jerry.png",
+    "name":"rishi",
+    "email":"rishikaram23@gmail.com"
+  },
+"career":
+{
+  "info": "i want to seek a position in software"
+}  ,
+"education":
+[
+  {
+    "sno":"1",
+    "degree":"btech",
+    "institution":"mits",
+    "percentage":"89"
+  },
+  {
+    "sno":"2",
+    "degree":"inter",
+    "institution":"nry",
+    "percentage":"93"
+  },
+  {
+    "sno":"3",
+    "degree":"ssc",
+    "institution":"crr",
+    "percentage":"93"
+  }
+],
+"skills":
+[
+  {
+    "info":"c"
+  },
+  {
+    "info":"c++"
+  },
+  {
+    "info":"java"
+  }
+]
+}
